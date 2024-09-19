@@ -49,6 +49,7 @@ LANGUAGES = [
     'tsq',
     'typescript',
     'yaml',
+    'cobol',
 ]
 
 PYTHON_CODE = """
